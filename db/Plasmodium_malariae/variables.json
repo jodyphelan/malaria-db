@@ -1,3 +1,4 @@
 {
-    "species":["knowlesi"]
+    "enabled":false,
+    "species":["malariae_brasilianum"]
 }
