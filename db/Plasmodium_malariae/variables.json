@@ -1,4 +1,5 @@
 {
+    "snpEff_db":"Plasmodium_malariae_UG01",
     "enabled":false,
     "species":["malariae_brasilianum"]
 }
