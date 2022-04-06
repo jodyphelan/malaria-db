@@ -1,4 +1,4 @@
 {
-    "enabled":false,
+    "snpEff_db": "Plasmodium_vivax_P01",
     "species":["vivax_simium"]
 }
