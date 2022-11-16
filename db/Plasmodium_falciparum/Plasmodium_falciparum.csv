@@ -1,38 +1,35 @@
 Gene,Mutation,Drug,Confers,Interaction,Literature
-PF3D7_0523000,p.Asn86Tyr,chloroquine,resistance,,
-PF3D7_0523000,p.Ser1034Cys,chloroquine,resistance,,
-PF3D7_0523000,p.Asn1042Asp,chloroquine,resistance,,
-PF3D7_0523000,p.Asp1246Tyr,chloroquine,resistance,,
-PF3D7_0523000,p.Tyr184Phe,chloroquine,resistance,,
-PF3D7_0523000,p.Asn86Tyr,mefloquine,resistance,,
-PF3D7_0523000,p.Ser1034Cys,mefloquine,resistance,,
-PF3D7_0523000,p.Asn1042Asp,mefloquine,resistance,,
-PF3D7_0523000,p.Asp1246Tyr,mefloquine,resistance,,
-PF3D7_0523000,p.Tyr184Phe,mefloquine,resistance,,
-PF3D7_0709000,p.Cys72Ser,chloroquine,resistance,,
-PF3D7_0709000,p.Cys72Tyr,chloroquine,resistance,,
-PF3D7_0709000,p.Ala144Ser,chloroquine,resistance,,
-PF3D7_0709000,p.Ala144Val,chloroquine,resistance,,
-PF3D7_0709000,p.Ile356Thr,chloroquine,resistance,,
-PF3D7_0709000,p.Arg371Ile,chloroquine,resistance,,
-PF3D7_0709000,p.Lys76Thr,chloroquine,resistance,,
-PF3D7_0709000,p.Gln271Glu,chloroquine,resistance,,
-PF3D7_0709000,p.Asn326Ser,chloroquine,resistance,,
-PF3D7_0709000,p.Ala220Ser,chloroquine,resistance,,
-PF3D7_0417200,p.Cys50Arg,pyrimethamine,resistance,,
-PF3D7_0417200,p.Asn51Ile,pyrimethamine,resistance,,
-PF3D7_0417200,p.Cys59Arg,pyrimethamine,resistance,,
-PF3D7_0417200,p.Ser108Asn,pyrimethamine,resistance,,
-PF3D7_0417200,p.Ile164Leu,pyrimethamine,resistance,,
-PF3D7_0810800,p.Ser436Ala,sulfadoxine,resistance,,
-PF3D7_0810800,p.Lys540Glu,sulfadoxine,resistance,,
-PF3D7_0810800,p.Ala581Gly,sulfadoxine,resistance,,
-PF3D7_0810800,p.Ala437Gly,sulfadoxine,resistance,,
-PF3D7_0810800,p.Ala613Ser,sulfadoxine,resistance,,
-PF3D7_0810800,p.Ala613Thr,sulfadoxine,resistance,,
-PF3D7_1343700,p.Cys580Tyr,artemisinin,resistance,,
-PF3D7_1343700,p.Ile543Thr,artemisinin,resistance,,
-PF3D7_1343700,p.Arg539Thr,artemisinin,resistance,,
-PF3D7_1343700,p.Tyr493His,artemisinin,resistance,,
-PF3D7_1343700,p.Lys189Thr,artemisinin,resistance,,
-PF3D7_1343700,p.Lys189Asn,artemisinin,resistance,,
+PF3D7_0523000,p.Asn86Tyr,chloroquine,resistance,p.Lys76Thr ,"WHO Meeting Report, Report on antimalarial drug efficacy, resistance and response: 10 years of surveillance (2010-2019), 2020"
+PF3D7_0523000,p.Tyr184Phe,chloroquine,resistance,p.Lys76Thr ,"WHO Meeting Report, Report on antimalarial drug efficacy, resistance and response: 10 years of surveillance (2010-2019), 2020"
+PF3D7_0523000,p.Ser1034Cys,chloroquine,resistance,p.Lys76Thr ,"WHO Meeting Report, Report on antimalarial drug efficacy, resistance and response: 10 years of surveillance (2010-2019), 2020"
+PF3D7_0523000,p.Asn1042Asp,chloroquine,resistance,p.Lys76Thr ,"WHO Meeting Report, Report on antimalarial drug efficacy, resistance and response: 10 years of surveillance (2010-2019), 2020"
+PF3D7_0523000,p.Asp1246Tyr,chloroquine,resistance,p.Lys76Thr ,"WHO Meeting Report, Report on antimalarial drug efficacy, resistance and response: 10 years of surveillance (2010-2019), 2020"
+PF3D7_0709000,p.Cys72Ser,chloroquine,resistance,p.Lys76Thr ,"WHO Meeting Report, Report on antimalarial drug efficacy, resistance and response: 10 years of surveillance (2010-2019), 2020"
+PF3D7_0709000,p.Met74Ile,chloroquine,resistance,p.Lys76Thr ,"WHO Meeting Report, Report on antimalarial drug efficacy, resistance and response: 10 years of surveillance (2010-2019), 2020"
+PF3D7_0709000,p.Asn75Glu,chloroquine,resistance,p.Lys76Thr ,"WHO Meeting Report, Report on antimalarial drug efficacy, resistance and response: 10 years of surveillance (2010-2019), 2020"
+PF3D7_0709000,p.Lys76Thr,chloroquine,resistance,,"WHO Meeting Report, Report on antimalarial drug efficacy, resistance and response: 10 years of surveillance (2010-2019), 2020"
+PF3D7_0709000,p.Ala220Ser,chloroquine,resistance,p.Lys76Thr ,"WHO Meeting Report, Report on antimalarial drug efficacy, resistance and response: 10 years of surveillance (2010-2019), 2020"
+PF3D7_0709000,p.Gln271Glu,chloroquine,resistance,p.Lys76Thr ,"WHO Meeting Report, Report on antimalarial drug efficacy, resistance and response: 10 years of surveillance (2010-2019), 2020"
+PF3D7_0709000,p.Asn326Ser,chloroquine,resistance,p.Lys76Thr ,"WHO Meeting Report, Report on antimalarial drug efficacy, resistance and response: 10 years of surveillance (2010-2019), 2020"
+PF3D7_0709000,p.Ile356Thr,chloroquine,resistance,p.Lys76Thr ,"WHO Meeting Report, Report on antimalarial drug efficacy, resistance and response: 10 years of surveillance (2010-2019), 2020"
+PF3D7_0709000,p.Arg371Ile,chloroquine,resistance,p.Lys76Thr ,"WHO Meeting Report, Report on antimalarial drug efficacy, resistance and response: 10 years of surveillance (2010-2019), 2020"
+PF3D7_0417200,p.Asn51Ile,pyrimethamine,resistance,,"WHO Meeting Report, Report on antimalarial drug efficacy, resistance and response: 10 years of surveillance (2010-2019), 2020"
+PF3D7_0417200,p.Cys59Arg,pyrimethamine,resistance,,"WHO Meeting Report, Report on antimalarial drug efficacy, resistance and response: 10 years of surveillance (2010-2019), 2020"
+PF3D7_0417200,p.Ser108Asn,pyrimethamine,resistance,,"WHO Meeting Report, Report on antimalarial drug efficacy, resistance and response: 10 years of surveillance (2010-2019), 2020"
+PF3D7_0417200,p.Ile164Leu,pyrimethamine,resistance,,"WHO Meeting Report, Report on antimalarial drug efficacy, resistance and response: 10 years of surveillance (2010-2019), 2020"
+PF3D7_0810800,p.Ser436Ala,sulfadoxine,resistance,,"WHO Meeting Report, Report on antimalarial drug efficacy, resistance and response: 10 years of surveillance (2010-2019), 2020"
+PF3D7_0810800,p.Ser436Phe,sulfadoxine,resistance,,"WHO Meeting Report, Report on antimalarial drug efficacy, resistance and response: 10 years of surveillance (2010-2019), 2020"
+PF3D7_0810800,p.Ala437Gly,sulfadoxine,resistance,,"WHO Meeting Report, Report on antimalarial drug efficacy, resistance and response: 10 years of surveillance (2010-2019), 2020"
+PF3D7_0810800,p.Lys540Glu,sulfadoxine,resistance,,"WHO Meeting Report, Report on antimalarial drug efficacy, resistance and response: 10 years of surveillance (2010-2019), 2020"
+PF3D7_0810800,p.Ala581Gly,sulfadoxine,resistance,,"WHO Meeting Report, Report on antimalarial drug efficacy, resistance and response: 10 years of surveillance (2010-2019), 2020"
+PF3D7_0810800,p.Ala613Ser,sulfadoxine,resistance,,"WHO Meeting Report, Report on antimalarial drug efficacy, resistance and response: 10 years of surveillance (2010-2019), 2020"
+PF3D7_0810800,p.Ala613Thr,sulfadoxine,resistance,,"WHO Meeting Report, Report on antimalarial drug efficacy, resistance and response: 10 years of surveillance (2010-2019), 2020"
+PF3D7_1343700,p.Phe446Ile,artemisinin,resistance,,"WHO Meeting Report, Report on antimalarial drug efficacy, resistance and response: 10 years of surveillance (2010-2019), 2020"
+PF3D7_1343700,p.Asn458Tyr,artemisinin,resistance,,"WHO Status Report, Artemisinin resistance and artemisinin-based combination therapy efficacy, 2018"
+PF3D7_1343700,p.Met476Ile,artemisinin,resistance,,"WHO Status Report, Artemisinin resistance and artemisinin-based combination therapy efficacy, 2018"
+PF3D7_1343700,p.Tyr493His,artemisinin,resistance,,"WHO Status Report, Artemisinin resistance and artemisinin-based combination therapy efficacy, 2018"
+PF3D7_1343700,p.Arg539Thr,artemisinin,resistance,,"WHO Status Report, Artemisinin resistance and artemisinin-based combination therapy efficacy, 2018"
+PF3D7_1343700,p.Ile543Thr,artemisinin,resistance,,"WHO Status Report, Artemisinin resistance and artemisinin-based combination therapy efficacy, 2018"
+PF3D7_1343700,p.Pro553Leu,artemisinin,resistance,,"WHO Status Report, Artemisinin resistance and artemisinin-based combination therapy efficacy, 2018"
+PF3D7_1343700,p.Arg561His,artemisinin,resistance,,"WHO Status Report, Artemisinin resistance and artemisinin-based combination therapy efficacy, 2018"
+PF3D7_1343700,p.Cys580Tyr,artemisinin,resistance,,"WHO Status Report, Artemisinin resistance and artemisinin-based combination therapy efficacy, 2018"
