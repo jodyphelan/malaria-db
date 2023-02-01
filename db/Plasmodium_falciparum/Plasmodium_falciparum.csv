@@ -17,6 +17,7 @@ PF3D7_0417200,p.Asn51Ile,pyrimethamine,resistance,,"WHO Meeting Report, Report o
 PF3D7_0417200,p.Cys59Arg,pyrimethamine,resistance,,"WHO Meeting Report, Report on antimalarial drug efficacy, resistance and response: 10 years of surveillance (2010-2019), 2020"
 PF3D7_0417200,p.Ser108Asn,pyrimethamine,resistance,,"WHO Meeting Report, Report on antimalarial drug efficacy, resistance and response: 10 years of surveillance (2010-2019), 2020"
 PF3D7_0417200,p.Ile164Leu,pyrimethamine,resistance,,"WHO Meeting Report, Report on antimalarial drug efficacy, resistance and response: 10 years of surveillance (2010-2019), 2020"
+PF3D7_0810800,p.Ile431Val,sulfadoxine,resistance,,https://pubmed.ncbi.nlm.nih.gov/36328000/
 PF3D7_0810800,p.Ser436Ala,sulfadoxine,resistance,,"WHO Meeting Report, Report on antimalarial drug efficacy, resistance and response: 10 years of surveillance (2010-2019), 2020"
 PF3D7_0810800,p.Ser436Phe,sulfadoxine,resistance,,"WHO Meeting Report, Report on antimalarial drug efficacy, resistance and response: 10 years of surveillance (2010-2019), 2020"
 PF3D7_0810800,p.Ala437Gly,sulfadoxine,resistance,,"WHO Meeting Report, Report on antimalarial drug efficacy, resistance and response: 10 years of surveillance (2010-2019), 2020"
@@ -26,6 +27,7 @@ PF3D7_0810800,p.Ala613Ser,sulfadoxine,resistance,,"WHO Meeting Report, Report on
 PF3D7_0810800,p.Ala613Thr,sulfadoxine,resistance,,"WHO Meeting Report, Report on antimalarial drug efficacy, resistance and response: 10 years of surveillance (2010-2019), 2020"
 PF3D7_1343700,p.Phe446Ile,artemisinin,resistance,,"WHO Meeting Report, Report on antimalarial drug efficacy, resistance and response: 10 years of surveillance (2010-2019), 2020"
 PF3D7_1343700,p.Asn458Tyr,artemisinin,resistance,,"WHO Status Report, Artemisinin resistance and artemisinin-based combination therapy efficacy, 2018"
+PF3D7_1343700,p.Cys469Tyr,artemisinin,resistance,,https://pubmed.ncbi.nlm.nih.gov/34551228/
 PF3D7_1343700,p.Met476Ile,artemisinin,resistance,,"WHO Status Report, Artemisinin resistance and artemisinin-based combination therapy efficacy, 2018"
 PF3D7_1343700,p.Tyr493His,artemisinin,resistance,,"WHO Status Report, Artemisinin resistance and artemisinin-based combination therapy efficacy, 2018"
 PF3D7_1343700,p.Arg539Thr,artemisinin,resistance,,"WHO Status Report, Artemisinin resistance and artemisinin-based combination therapy efficacy, 2018"
@@ -33,3 +35,4 @@ PF3D7_1343700,p.Ile543Thr,artemisinin,resistance,,"WHO Status Report, Artemisini
 PF3D7_1343700,p.Pro553Leu,artemisinin,resistance,,"WHO Status Report, Artemisinin resistance and artemisinin-based combination therapy efficacy, 2018"
 PF3D7_1343700,p.Arg561His,artemisinin,resistance,,"WHO Status Report, Artemisinin resistance and artemisinin-based combination therapy efficacy, 2018"
 PF3D7_1343700,p.Cys580Tyr,artemisinin,resistance,,"WHO Status Report, Artemisinin resistance and artemisinin-based combination therapy efficacy, 2018"
+PF3D7_1343700,p.Ala675Val,artemisinin,resistance,,https://pubmed.ncbi.nlm.nih.gov/34551228/
